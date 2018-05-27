@@ -3,12 +3,38 @@
     <title>coiniovas</title>
     <link href="https://amjad-desai.github.io/Publii/./feed.xml" rel="self" />
     <link href="https://amjad-desai.github.io/Publii/." />
-    <updated>2018-05-27T15:52:10+04:00</updated>
+    <updated>2018-05-27T18:15:35+04:00</updated>
     <author>
         <name>amjad</name>
     </author>
     <id>https://amjad-desai.github.io/Publii/.</id>
 
+    <entry>
+        <title>Should you be concerned about GDPR</title>
+        <author>
+            <name>amjad</name>
+        </author>
+        <link href="https://amjad-desai.github.io/Publii/./introductory-post-copy.html"/>
+        <id>https://amjad-desai.github.io/Publii/./introductory-post-copy.html</id>
+
+        <updated>2018-05-27T18:15:28+04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://amjad-desai.github.io/Publii/./media/posts/2/" alt="" />
+                <div>If you have or use any of the following items on your website, then it will be worth double-checking that you meet the requirements of the GDPR before the May deadline</div>
+<ul>
+<li>Your website collects data on visitors, such as via Google analytics. Your site has a registration form.</li>
+<li>You have e-commerce functionality on your site; that is, you collect information to process payments, orders etc.</li>
+<li>You have a newsletter sign-up form.</li>
+<li>You include social media links on your pages e.g. Facebook, Twitter etc...</li>
+<li>You use a comments system for your articles, such as Disqus.</li>
+<li>Your site has scripts that use cookies.</li>
+<li>You have a contact form for users to get in touch.</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Introductory Post</title>
         <author>
