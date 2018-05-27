@@ -3,7 +3,7 @@
     <title>coiniovas</title>
     <link href="https://amjad-desai.github.io/Publii/./feed.xml" rel="self" />
     <link href="https://amjad-desai.github.io/Publii/." />
-    <updated>2018-05-27T18:16:13+04:00</updated>
+    <updated>2018-05-27T18:17:04+04:00</updated>
     <author>
         <name>amjad</name>
     </author>
@@ -17,14 +17,15 @@
         <link href="https://amjad-desai.github.io/Publii/./introductory-post-copy.html"/>
         <id>https://amjad-desai.github.io/Publii/./introductory-post-copy.html</id>
 
-        <updated>2018-05-27T18:15:28+04:00</updated>
+        <updated>2018-05-27T18:16:59+04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://amjad-desai.github.io/Publii/./media/posts/2/" alt="" />
-                <div>If you have or use any of the following items on your website, then it will be worth double-checking that you meet the requirements of the GDPR before the May deadline</div>
+                <div>If you have or use any of the following items on your website, then it will be worth double-checking that you meet the requirements of the GDPR</div>
 <ul>
-<li>Your website collects data on visitors, such as via Google analytics. Your site has a registration form.</li>
+<li>Your website collects data on visitors, such as via Google analytics.</li>
+<li>Your site has a registration form.</li>
 <li>You have e-commerce functionality on your site; that is, you collect information to process payments, orders etc.</li>
 <li>You have a newsletter sign-up form.</li>
 <li>You include social media links on your pages e.g. Facebook, Twitter etc...</li>
