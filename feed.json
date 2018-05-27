@@ -10,18 +10,19 @@
     },
     "items": [
         {
-            "id": "https://amjad-desai.github.io/Publii/./introductory-post-copy.html",
-            "url": "https://amjad-desai.github.io/Publii/./introductory-post-copy.html",
+            "id": "https://amjad-desai.github.io/Publii/./Should-you-be-concerned-about-GDPR.html",
+            "url": "https://amjad-desai.github.io/Publii/./Should-you-be-concerned-about-GDPR.html",
             "title": "Should you be concerned about GDPR",
             "content_html": "<div>If you have or use any of the following items on your website, then it will be worth double-checking that you meet the requirements of the GDPR</div>\n<ul>\n<li>Your website collects data on visitors, such as via Google analytics.</li>\n<li>Your site has a registration form.</li>\n<li>You have e-commerce functionality on your site; that is, you collect information to process payments, orders etc.</li>\n<li>You have a newsletter sign-up form.</li>\n<li>You include social media links on your pages e.g. Facebook, Twitter etc...</li>\n<li>You use a comments system for your articles, such as Disqus.</li>\n<li>Your site has scripts that use cookies.</li>\n<li>You have a contact form for users to get in touch.</li>\n</ul>",
-            "image": "https://amjad-desai.github.io/Publii/./media/posts/2/",
+            "image": "https://amjad-desai.github.io/Publii/./media/posts/2/GDPR-header.jpg",
             "author": {
                 "name": "amjad"
             },
             "tags": [
+                   "GDPR"
             ],
             "date_published": "2018-05-27T18:13:45+04:00",
-            "date_modified": "2018-05-27T18:16:59+04:00"
+            "date_modified": "2018-05-27T18:20:53+04:00"
         },
         {
             "id": "https://amjad-desai.github.io/Publii/./introductory-post.html",

@@ -3,7 +3,7 @@
     <title>coiniovas</title>
     <link href="https://amjad-desai.github.io/Publii/./feed.xml" rel="self" />
     <link href="https://amjad-desai.github.io/Publii/." />
-    <updated>2018-05-27T18:17:04+04:00</updated>
+    <updated>2018-05-27T18:21:04+04:00</updated>
     <author>
         <name>amjad</name>
     </author>
@@ -14,14 +14,15 @@
         <author>
             <name>amjad</name>
         </author>
-        <link href="https://amjad-desai.github.io/Publii/./introductory-post-copy.html"/>
-        <id>https://amjad-desai.github.io/Publii/./introductory-post-copy.html</id>
+        <link href="https://amjad-desai.github.io/Publii/./Should-you-be-concerned-about-GDPR.html"/>
+        <id>https://amjad-desai.github.io/Publii/./Should-you-be-concerned-about-GDPR.html</id>
+            <category term="GDPR"/>
 
-        <updated>2018-05-27T18:16:59+04:00</updated>
+        <updated>2018-05-27T18:20:53+04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://amjad-desai.github.io/Publii/./media/posts/2/" alt="" />
+                    <img src="https://amjad-desai.github.io/Publii/./media/posts/2/GDPR-header.jpg" alt="" />
                 <div>If you have or use any of the following items on your website, then it will be worth double-checking that you meet the requirements of the GDPR</div>
 <ul>
 <li>Your website collects data on visitors, such as via Google analytics.</li>
