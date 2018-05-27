@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "cognitio_innovation",
+    "description": "",
+    "home_page_url": "https://amjad-desai.github.io/Publii/.",
+    "feed_url": "https://amjad-desai.github.io/Publii/./feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "amjad"
+    },
+    "items": [
+        {
+            "id": "https://amjad-desai.github.io/Publii/./introductory-post.html",
+            "url": "https://amjad-desai.github.io/Publii/./introductory-post.html",
+            "title": "Introductory Post",
+            "content_html": "<div>Data handling</div>\n<div class=\"align-left\">Customers now have a ‘right to be forgotten’ so that they can have their\n<div class=\"gallery\" contenteditable=\"false\" data-is-empty=\"true\"> </div>\ndetails removed from a website and the database if they request it. Webmasters should therefore have a process in place that caters for this and also facilitate a way that users can request this, whether it mentioning it clearly in their privacy policy or elsewhere on the website.</div>\n<div> </div>\n<div>To emphasize the security of customer data, website owners are required to keep all data secured in an encrypted environment. By adding an https protocol to your website, you are helping encrypt the data that customers fill on your site.</div>\n<div> </div>\n<div> </div>\n<div>GDPR rules highlight that all data must be stored in the EU. Whilst this can be tricky using operations and software based in the US and overseas, it is important to check that these companies are GDPR compliant whether you are working with GoDaddy, Wordpress, Google, Zoho or Mongodb.</div>",
+            "image": "https://amjad-desai.github.io/Publii/./media/posts/1/",
+            "author": {
+                "name": "amjad"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-05-27T13:09:05+04:00",
+            "date_modified": "2018-05-27T13:09:05+04:00"
+        }
+    ]
+}

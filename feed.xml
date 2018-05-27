@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>cognitio_innovation</title>
+    <link href="https://amjad-desai.github.io/Publii/./feed.xml" rel="self" />
+    <link href="https://amjad-desai.github.io/Publii/." />
+    <updated>2018-05-27T13:29:45+04:00</updated>
+    <author>
+        <name>amjad</name>
+    </author>
+    <id>https://amjad-desai.github.io/Publii/.</id>
+
+    <entry>
+        <title>Introductory Post</title>
+        <author>
+            <name>amjad</name>
+        </author>
+        <link href="https://amjad-desai.github.io/Publii/./introductory-post.html"/>
+        <id>https://amjad-desai.github.io/Publii/./introductory-post.html</id>
+
+        <updated>2018-05-27T13:09:05+04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://amjad-desai.github.io/Publii/./media/posts/1/" alt="" />
+                <div>Data handling</div>
+<div class="align-left">Customers now have a ‘right to be forgotten’ so that they can have their
+<div class="gallery" contenteditable="false" data-is-empty="true"> </div>
+details removed from a website and the database if they request it. Webmasters should therefore have a process in place that caters for this and also facilitate a way that users can request this, whether it mentioning it clearly in their privacy policy or elsewhere on the website.</div>
+<div> </div>
+<div>To emphasize the security of customer data, website owners are required to keep all data secured in an encrypted environment. By adding an https protocol to your website, you are helping encrypt the data that customers fill on your site.</div>
+<div> </div>
+<div> </div>
+<div>GDPR rules highlight that all data must be stored in the EU. Whilst this can be tricky using operations and software based in the US and overseas, it is important to check that these companies are GDPR compliant whether you are working with GoDaddy, Wordpress, Google, Zoho or Mongodb.</div>
+            ]]>
+        </content>
+    </entry>
+</feed>
